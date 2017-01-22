@@ -1,2 +1,2 @@
-# puzzle-1.js
+# RudyPuzzle
 P&amp;E

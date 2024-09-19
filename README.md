@@ -1,3 +1,3 @@
 # RudyPuzzle
-Some simple puzzle game to practice JavaScript :)
+Some simple puzzle games to practice JavaScript :)
 

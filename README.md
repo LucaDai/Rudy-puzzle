@@ -1,2 +1,3 @@
 # RudyPuzzle
-P&amp;E
+Some simple puzzle game to practice JavaScript :)
+
